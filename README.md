@@ -1,11 +1,12 @@
 # Raster Scanner
 This program performs a 3D raster scan. The calculated x, y, and z coordinates are saved in the RasterScan.txt file. It can be used for radar simulations or other applications requiring raster scanning coordinates.
 
-# GNU Octave
 
 <img width="600" height="557" alt="Raster" src="https://github.com/user-attachments/assets/91db04f8-1f77-4598-898c-11a8a39dd7fc" />
 
+
 ```cpp
+
 
 #include <stdio.h>
 #include <math.h>
