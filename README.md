@@ -2,7 +2,7 @@
 This program performs a 3D raster scan. The calculated x, y, and z coordinates are saved in the RasterScan.txt file. It can be used for radar simulations or other applications requiring raster scanning coordinates.
 
 
-
+<img width="693" height="648" alt="raster" src="https://github.com/user-attachments/assets/9c4b3d75-491c-42f4-aa84-91b28f040b5e" />
 
 
 ```c
